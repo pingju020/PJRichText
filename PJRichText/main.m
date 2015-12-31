@@ -1,8 +1,8 @@
 //
 //  main.m
-//  PJRichTextViewKit
+//  PJRichText
 //
-//  Created by yangjuanping on 15/11/16.
+//  Created by yangjuanping on 15/11/17.
 //  Copyright © 2015年 yangjuanping. All rights reserved.
 //
 

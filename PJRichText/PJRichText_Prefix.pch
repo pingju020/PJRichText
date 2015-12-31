@@ -1,0 +1,21 @@
+//
+//  PJRichText_Prefix.pch
+//  PJRichText
+//
+//  Created by yangjuanping on 15/11/17.
+//  Copyright © 2015年 yangjuanping. All rights reserved.
+//
+
+#ifndef PJRichText_Prefix_pch
+#define PJRichText_Prefix_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "PublicDefine.h"
+#import "ConstDefine.h"
+#import "CommonEnumDefine.h"
+#import "UIColor+Expand.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PJRichText_Prefix_pch */

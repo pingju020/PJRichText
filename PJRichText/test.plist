@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>Core Text is an advanced, low-level technology for laying out text and handling fonts. The Core Text API, introduced in Mac OS X v10.5 and iOS 3.2, is accessible from all OS X and iOS environments.</string>
+		<key>size</key>
+		<string>16</string>
+		<key>color</key>
+		<string>RGB(0,0,255)</string>
+		<key>type</key>
+		<string>txt</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>img</string>
+		<key>name</key>
+		<string>yaoyiyao.png</string>
+		<key>height</key>
+		<string>64</string>
+		<key>width</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>Important:</string>
+		<key>size</key>
+		<string>18</string>
+		<key>color</key>
+		<string>red</string>
+		<key>type</key>
+		<string>txt</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>Core Text is intended for developers who must do text layout and font handling at a low level, such as developers of layout engines. You should develop your app using a higher-level framework if possible—that is, use Text Kit in iOS (see</string>
+		<key>size</key>
+		<string>20</string>
+		<key>color</key>
+		<string>#69D25C</string>
+		<key>type</key>
+		<string>txt</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>Text Programming Guide for iOS</string>
+		<key>size</key>
+		<string>22</string>
+		<key>color</key>
+		<string>green</string>
+		<key>type</key>
+		<string>txt</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>img</string>
+		<key>name</key>
+		<string>hb_fdpic.png</string>
+		<key>width</key>
+		<string>40</string>
+		<key>height</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>) or the Cocoa text system in OS X (see Cocoa Text Architecture Guide). Core Text is the technology underlying those text systems, so they share in its speed and efficiency. In addition, Text Kit and the Cocoa text system provide rich text editing, full-featured page layout engines, and other infrastructure that your app would otherwise need to provide if it used Core Text alone.</string>
+		<key>size</key>
+		<string>14</string>
+		<key>color</key>
+		<string>orange</string>
+		<key>type</key>
+		<string>txt</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>that&apos;s all!</string>
+		<key>size</key>
+		<string>22</string>
+		<key>color</key>
+		<string>black</string>
+		<key>type</key>
+		<string>txt</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>img</string>
+		<key>name</key>
+		<string>yaohongbaobanner.png</string>
+		<key>width</key>
+		<string>375</string>
+		<key>height</key>
+		<string>100</string>
+	</dict>
+</array>
+</plist>
